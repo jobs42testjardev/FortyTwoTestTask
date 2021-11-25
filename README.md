@@ -1,4 +1,4 @@
-42-test template
+My test assignment
 ===========================
 
 A Django 3+ project template
@@ -13,3 +13,4 @@ A Django 3+ project template
 ### Initial setup
 You can develop app in docker container or directly on host, check `.env.example`
 Most usable commands are proxied in the `Makefile`
+
